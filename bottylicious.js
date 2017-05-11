@@ -206,7 +206,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "bottylicious",
+            botName: "Bottylicious",
             language: "english",
             chatLink: "https://rawgit.com/bottylicious/source/master/lang/en.json",
             scriptLink: "https://rawgit.com/bottylicious/source/master/bottylicious.js",
